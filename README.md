@@ -2,7 +2,7 @@
 Official repository of AAAI26 paper: TechCoach: Towards Technical Keypoint-Aware Descriptive Action Coaching
 
 ## EE4D-DescCoach Dataset
-The annotations of EE4D-DescCoach Dataset are constructed in a .json style file:
+The meta data of EE4D-DescCoach Dataset is constructed in a .json style file:
 
 ```
 {
